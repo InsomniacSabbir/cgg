@@ -1,0 +1,46 @@
+body{
+    margin:0 auto;
+    text-align:center;
+    background-color:#6a6a6a;
+}
+
+#menu{
+    margin:0 auto;
+    width:30%;
+    background-color:black;
+}
+.menu-item{
+    width:100%;
+    height:50px;
+    display:block;
+    border-radius:5px;
+    border:1px solid black;
+}
+#hint{
+    width:90%;
+    margin:0 auto;
+    margin-top:5%;
+}
+
+#main{
+    width:90%;
+    margin:0 auto;
+}
+#color{
+    margin-top:10%;
+    width:100%;
+    height:35px;
+}
+#larr{
+    float:left;
+}
+
+#rarr{
+    float:right;
+}
+#gl,#lvl{
+    font-size:2em;
+}
+a{
+    text-decoration:none;
+}
